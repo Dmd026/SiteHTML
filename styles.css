@@ -1,7 +1,12 @@
-.verde {
-    font-family: Arial, sans-serif;
-    background-color: #de1010;
-    color: #BFF843;
-    margin: 0;
-    padding: 0;
+.titulo {
+    font-family: Arial, sans-serif, monospace;
+    background-color: #c4f900;
+    color: #ecc600;
+    margin: 0px;
+    padding: 5px;
+}
+
+.fonte-entrelinhas {
+    font-family: Arial, sans-serif, monospace;
+    font-size: 30%;
 }
