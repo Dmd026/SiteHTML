@@ -10,3 +10,13 @@
     font-family: Arial, sans-serif, monospace;
     font-size: 30%;
 }
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 700
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
